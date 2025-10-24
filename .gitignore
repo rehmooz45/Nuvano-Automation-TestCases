@@ -1,0 +1,24 @@
+# Ignore compiled class files
+*.class
+
+# Ignore Maven target directory
+target/
+
+# IntelliJ specific
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Drivers
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# Config files (optional)
+Config.properties

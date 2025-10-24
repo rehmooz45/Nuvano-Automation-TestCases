@@ -1,0 +1,7 @@
+<suite name="Selenium Suite" verbose="1">
+    <test name="Selenium Tests">
+        <classes>
+            <class name="NuvanoPackage.Nuvanotestrun"/>
+        </classes>
+    </test>
+</suite>
